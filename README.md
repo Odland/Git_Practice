@@ -3,4 +3,4 @@
 - fix-B
 - fixup-file
 - Add directory QUEUE
-- Test:Multiple Git accout configurations
+- Test:Multiple Git account configurations
